@@ -1,0 +1,21 @@
+# Ignore compiled executables without extensions
+maxdiff_test
+recursion/Recursion_digitprint
+recursion/Recursion_fibo
+recursion/recursion_digitprint
+recursion/recursion_fib_calls
+recursion/recursion_fib_memo
+recursion/recursion_m
+recursion/recursion_order
+recursion/recursion_overflow
+recursion/recursion_subsets
+recursion/recursion_sum
+recursion/recursion_trace
+
+# General object and binary files
+*.o
+*.out
+*.exe
+
+# macOS
+.DS_Store
